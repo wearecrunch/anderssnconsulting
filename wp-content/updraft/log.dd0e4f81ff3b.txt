@@ -1,0 +1,502 @@
+0000.003 (0) Opened log file at time: Mon, 18 Apr 2016 14:49:02 +0000 on http://anderssonconsulting.dk
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+0000.005 (0) Free space on disk containing Updraft's temporary directory: 161635.3 Mb
+0000.008 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.008 (0) Processed schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.015 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.016 (0) Semaphore (fd) was stuck, set lock time to 2016-04-18 14:49:02
+0000.017 (0) Semaphore (fd) reset to 1
+0000.018 (0) Set semaphore last lock (fd) time to 2016-04-18 14:49:02
+0000.018 (0) Semaphore lock (fd) complete
+0000.021 (0) Backup run: resumption=0, nonce=dd0e4f81ff3b, begun at=1460990942 (0s ago), job type=backup
+0000.022 (0) Scheduling a resumption (1) after 300 seconds (1460991242) in case this run gets aborted
+0000.033 (0) Checking if we have a zip executable available
+0000.034 (0) Testing: /usr/bin/zip
+0000.041 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.042 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.043 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.043 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=128) (out=105) (deflated 18%)
+0000.044 (0) Output: total bytes=128, compressed=105 -> 18% savings
+0000.050 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=135) (out=111) (deflated 18%)
+0000.051 (0) Output: total bytes=263, compressed=216 -> 18% savings
+0000.060 (0) Working binary zip found: /usr/bin/zip
+0000.062 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.062 (0) Creation of backups of directories: beginning
+0000.065 (0) Beginning creation of dump of plugins (split every: 400 Mb)
+0000.242 (0) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+0000.246 (0) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0000.249 (0) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0000.252 (0) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0000.255 (0) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0000.258 (0) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0000.258 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+1756.195 (1) Opened log file at time: Mon, 18 Apr 2016 15:18:19 +0000 on http://anderssonconsulting.dk
+1756.196 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28.3M | 29.3M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+1756.196 (1) Free space on disk containing Updraft's temporary directory: 161634.3 Mb
+1756.198 (1) Backup run: resumption=1, nonce=dd0e4f81ff3b, begun at=1460990942 (1757s ago), job type=backup
+1756.198 (1) Long time past since expected resumption time: approx expected=1460991242.9, now=1460992699, diff=1456.2
+1756.200 (1) [Warning] Dit website besøges kun sjældent og UpdraftPlus modtager ikke de forventede ressourcer. Læs venligst denne side: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+1756.201 (1) Scheduling a resumption (2) after 300 seconds (1460992999) in case this run gets aborted
+1756.210 (1) Checking if we have a zip executable available
+1756.210 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+1756.211 (1) Creation of backups of directories: had begun; will resume
+1756.212 (1) Beginning creation of dump of plugins (split every: 400 Mb)
+1756.317 (1) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+1756.326 (1) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+1756.329 (1) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+1756.332 (1) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+1756.335 (1) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+1756.338 (1) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+1756.339 (1) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+2180.346 (2) Opened log file at time: Mon, 18 Apr 2016 15:25:23 +0000 on http://anderssonconsulting.dk
+2180.347 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+2180.347 (2) Free space on disk containing Updraft's temporary directory: 161631.3 Mb
+2180.349 (2) Backup run: resumption=2, nonce=dd0e4f81ff3b, begun at=1460990942 (2181s ago), job type=backup
+2180.350 (2) Scheduling a resumption (3) after 300 seconds (1460993423) in case this run gets aborted
+2180.358 (2) Checking if we have a zip executable available
+2180.359 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+2180.359 (2) Creation of backups of directories: had begun; will resume
+2180.361 (2) Beginning creation of dump of plugins (split every: 400 Mb)
+2180.419 (2) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+2180.428 (2) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+2180.430 (2) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+2180.433 (2) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+2180.436 (2) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+2180.439 (2) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+2180.440 (2) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+3338.521 (3) Opened log file at time: Mon, 18 Apr 2016 15:44:41 +0000 on http://anderssonconsulting.dk
+3338.522 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+3338.522 (3) Free space on disk containing Updraft's temporary directory: 161618.4 Mb
+3338.524 (3) Backup run: resumption=3, nonce=dd0e4f81ff3b, begun at=1460990942 (3339s ago), job type=backup
+3338.525 (3) Long time past since expected resumption time: approx expected=1460993423.2, now=1460994281.4, diff=858.2
+3338.525 (3) [Warning] Dit website besøges kun sjældent og UpdraftPlus modtager ikke de forventede ressourcer. Læs venligst denne side: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+3338.527 (3) Scheduling a resumption (4) after 300 seconds (1460994581) in case this run gets aborted
+3338.535 (3) Checking if we have a zip executable available
+3338.536 (3) Zip engine: found/will use a binary zip: /usr/bin/zip
+3338.536 (3) Creation of backups of directories: had begun; will resume
+3338.537 (3) Beginning creation of dump of plugins (split every: 400 Mb)
+3338.595 (3) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+3338.605 (3) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+3338.608 (3) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+3338.611 (3) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+3338.614 (3) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+3338.617 (3) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+3338.618 (3) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+3673.515 (4) Opened log file at time: Mon, 18 Apr 2016 15:50:16 +0000 on http://anderssonconsulting.dk
+3673.523 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+3673.523 (4) Free space on disk containing Updraft's temporary directory: 161613.9 Mb
+3673.527 (4) Backup run: resumption=4, nonce=dd0e4f81ff3b, begun at=1460990942 (3674s ago), job type=backup
+3673.535 (4) Scheduling a resumption (5) after 300 seconds (1460994916) in case this run gets aborted
+3673.563 (4) Checking if we have a zip executable available
+3673.579 (4) Zip engine: found/will use a binary zip: /usr/bin/zip
+3673.580 (4) Creation of backups of directories: had begun; will resume
+3673.583 (4) Beginning creation of dump of plugins (split every: 400 Mb)
+3673.802 (4) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+3673.836 (4) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+3673.841 (4) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+3673.849 (4) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+3673.857 (4) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+3673.877 (4) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+3673.878 (4) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+5876.416 (5) Opened log file at time: Mon, 18 Apr 2016 16:26:59 +0000 on http://anderssonconsulting.dk
+5876.417 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+5876.417 (5) Free space on disk containing Updraft's temporary directory: 161591.3 Mb
+5876.419 (5) Backup run: resumption=5, nonce=dd0e4f81ff3b, begun at=1460990942 (5877s ago), job type=backup
+5876.419 (5) Long time past since expected resumption time: approx expected=1460994916.3, now=1460996819.2, diff=1902.9
+5876.420 (5) [Warning] Dit website besøges kun sjældent og UpdraftPlus modtager ikke de forventede ressourcer. Læs venligst denne side: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+5876.421 (5) Scheduling a resumption (6) after 300 seconds (1460997119) in case this run gets aborted
+5876.430 (5) Checking if we have a zip executable available
+5876.431 (5) Zip engine: found/will use a binary zip: /usr/bin/zip
+5876.431 (5) Creation of backups of directories: had begun; will resume
+5876.433 (5) Beginning creation of dump of plugins (split every: 400 Mb)
+5876.488 (5) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+5876.498 (5) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+5876.500 (5) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+5876.503 (5) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+5876.506 (5) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+5876.509 (5) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+5876.509 (5) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+6763.795 (6) Opened log file at time: Mon, 18 Apr 2016 16:41:46 +0000 on http://anderssonconsulting.dk
+6763.796 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+6763.796 (6) Free space on disk containing Updraft's temporary directory: 161583.8 Mb
+6763.798 (6) Backup run: resumption=6, nonce=dd0e4f81ff3b, begun at=1460990942 (6764s ago), job type=backup
+6763.799 (6) Scheduling a resumption (7) after 300 seconds (1460998006) in case this run gets aborted
+6763.807 (6) Checking if we have a zip executable available
+6763.808 (6) Zip engine: found/will use a binary zip: /usr/bin/zip
+6763.808 (6) Creation of backups of directories: had begun; will resume
+6763.810 (6) Beginning creation of dump of plugins (split every: 400 Mb)
+6763.866 (6) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+6763.876 (6) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+6763.878 (6) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+6763.881 (6) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+6763.884 (6) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+6763.887 (6) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+6763.887 (6) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+9873.823 (7) Opened log file at time: Mon, 18 Apr 2016 17:33:36 +0000 on http://anderssonconsulting.dk
+9873.843 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+9873.875 (7) Free space on disk containing Updraft's temporary directory: 161570.8 Mb
+9873.911 (7) Backup run: resumption=7, nonce=dd0e4f81ff3b, begun at=1460990942 (9874s ago), job type=backup
+9873.939 (7) Long time past since expected resumption time: approx expected=1460998006.6, now=1461000816.7, diff=2810
+9873.943 (7) [Warning] Dit website besøges kun sjældent og UpdraftPlus modtager ikke de forventede ressourcer. Læs venligst denne side: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+9873.969 (7) Scheduling a resumption (8) after 300 seconds (1461001116) in case this run gets aborted
+9874.086 (7) Checking if we have a zip executable available
+9874.143 (7) Zip engine: found/will use a binary zip: /usr/bin/zip
+9874.147 (7) Creation of backups of directories: had begun; will resume
+9874.171 (7) Beginning creation of dump of plugins (split every: 400 Mb)
+9875.216 (7) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+9875.359 (7) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+9875.373 (7) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+9875.441 (7) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+9875.460 (7) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+9875.499 (7) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+9875.535 (7) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+11720.415 (8) Opened log file at time: Mon, 18 Apr 2016 18:04:23 +0000 on http://anderssonconsulting.dk
+11720.416 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+11720.416 (8) Free space on disk containing Updraft's temporary directory: 161539.5 Mb
+11720.418 (8) Backup run: resumption=8, nonce=dd0e4f81ff3b, begun at=1460990942 (11721s ago), job type=backup
+11720.418 (8) Long time past since expected resumption time: approx expected=1461001116.7, now=1461002663.2, diff=1546.6
+11720.419 (8) [Warning] Dit website besøges kun sjældent og UpdraftPlus modtager ikke de forventede ressourcer. Læs venligst denne side: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+11720.420 (8) Scheduling a resumption (9) after 300 seconds (1461002963) in case this run gets aborted
+11720.429 (8) Checking if we have a zip executable available
+11720.429 (8) Zip engine: found/will use a binary zip: /usr/bin/zip
+11720.430 (8) Creation of backups of directories: had begun; will resume
+11720.431 (8) Beginning creation of dump of plugins (split every: 400 Mb)
+11720.489 (8) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+11720.498 (8) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+11720.502 (8) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+11720.505 (8) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+11720.508 (8) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+11720.511 (8) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+11720.511 (8) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+12283.730 (9) Opened log file at time: Mon, 18 Apr 2016 18:13:46 +0000 on http://anderssonconsulting.dk
+12283.731 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+12283.731 (9) Free space on disk containing Updraft's temporary directory: 161536.1 Mb
+12283.733 (9) Backup run: resumption=9, nonce=dd0e4f81ff3b, begun at=1460990942 (12284s ago), job type=backup
+12283.734 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: ) - will not schedule a further attempt until we see something useful happening this time
+12283.742 (9) Creation of backups of directories: had begun; will resume
+12283.743 (9) Beginning creation of dump of plugins (split every: 400 Mb)
+12283.800 (9) Total entities for the zip file: 338 directories, 2940 files (0 skipped as non-modified), 33.8 Mb
+12283.806 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 100 files added (on-disk size: 0 Kb)
+12283.812 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 200 files added (on-disk size: 0 Kb)
+12283.818 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 300 files added (on-disk size: 0 Kb)
+12283.826 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 400 files added (on-disk size: 0 Kb)
+12283.834 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 500 files added (on-disk size: 0 Kb)
+12283.834 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (12.8 Mb, 2940 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+12285.152 (9) This is resumption 9, but meaningful activity is still taking place; so a new one will be scheduled
+12285.163 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 600 files added (on-disk size: 4063.5 Kb)
+12285.173 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 700 files added (on-disk size: 4063.5 Kb)
+12285.184 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 800 files added (on-disk size: 4063.5 Kb)
+12285.196 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 900 files added (on-disk size: 4063.5 Kb)
+12285.211 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1000 files added (on-disk size: 4063.5 Kb)
+12285.212 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.2 Mb, 2940 files batched, 501 (1002) added so far); re-opening (prior size: 4063.5 Kb)
+12285.719 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1100 files added (on-disk size: 5352.4 Kb)
+12285.729 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1200 files added (on-disk size: 5352.4 Kb)
+12285.740 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1300 files added (on-disk size: 5352.4 Kb)
+12285.751 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1400 files added (on-disk size: 5352.4 Kb)
+12285.764 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1500 files added (on-disk size: 5352.4 Kb)
+12285.765 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.2 Mb, 2940 files batched, 501 (1503) added so far); re-opening (prior size: 5352.4 Kb)
+12286.086 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1600 files added (on-disk size: 6713.2 Kb)
+12286.099 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1700 files added (on-disk size: 6713.2 Kb)
+12286.113 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1800 files added (on-disk size: 6713.2 Kb)
+12286.130 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 1900 files added (on-disk size: 6713.2 Kb)
+12286.143 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2000 files added (on-disk size: 6713.2 Kb)
+12286.155 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2 Mb, 2940 files batched, 501 (2004) added so far); re-opening (prior size: 6713.2 Kb)
+12286.526 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2100 files added (on-disk size: 8173.6 Kb)
+12286.540 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2200 files added (on-disk size: 8173.6 Kb)
+12286.554 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2300 files added (on-disk size: 8173.6 Kb)
+12286.569 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2400 files added (on-disk size: 8173.6 Kb)
+12286.584 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2500 files added (on-disk size: 8173.6 Kb)
+12286.585 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6 Mb, 2940 files batched, 501 (2505) added so far); re-opening (prior size: 8173.6 Kb)
+12287.310 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2600 files added (on-disk size: 10467.5 Kb)
+12287.345 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2700 files added (on-disk size: 10467.5 Kb)
+12287.369 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2800 files added (on-disk size: 10467.5 Kb)
+12287.414 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip.tmp: 2900 files added (on-disk size: 10467.5 Kb)
+12288.437 (9) Created plugins zip (0) - 13806.6 Kb in 4.7 s (2942.2 Kb/s) (SHA1 checksum: 57368d6686d8fd929462b6fb61400dde2b322aad)
+12288.443 (9) Beginning creation of dump of themes (split every: 400 Mb)
+12288.503 (9) Total entities for the zip file: 103 directories, 769 files (0 skipped as non-modified), 11.1 Mb
+12288.507 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+12288.519 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip.tmp: 200 files added (on-disk size: 0 Kb)
+12288.523 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip.tmp: 300 files added (on-disk size: 0 Kb)
+12288.544 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip.tmp: 400 files added (on-disk size: 0 Kb)
+12288.552 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip.tmp: 500 files added (on-disk size: 0 Kb)
+12288.567 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.7 Mb, 769 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+12289.562 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip.tmp: 600 files added (on-disk size: 3466.4 Kb)
+12289.569 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip.tmp: 700 files added (on-disk size: 3466.4 Kb)
+12290.171 (9) Created themes zip (0) - 5784.6 Kb in 1.7 s (3349.5 Kb/s) (SHA1 checksum: 4d109b673fe2c7183d277ea4644117ef715b3c3e)
+12290.174 (9) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+12290.175 (9) Looking for candidates to back up in: /home/u139xe5/www/wp-content/uploads
+12290.175 (9) finding files: fbrfg: adding to list (1)
+12290.176 (9) finding files: 2015: adding to list (2)
+12290.176 (9) finding files: 2016: adding to list (3)
+12290.177 (9) Beginning creation of dump of uploads (split every: 400 Mb)
+12290.202 (9) Total entities for the zip file: 14 directories, 279 files (0 skipped as non-modified), 27.7 Mb
+12290.205 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+12290.209 (9) Zip: backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+12290.225 (9) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (25.3 Mb, 279 files batched, 264 (264) added so far); re-opening (prior size: 0 Kb)
+12291.920 (9) A useful amount of data was added after this amount of zip processing: 1.8 s (normalised: 1.7 s, rate: 14767.8 Kb/s)
+12291.922 (9) Performance is good - will increase the amount of data we attempt to batch (time=1.7533071041107, normalised_time=1.7335058023849, max_time=0, data points known=0, old_max_bytes=26214400, new_max_bytes=90733125)
+12292.382 (9) Created uploads zip (0) - 28013.5 Kb in 2.2 s (12710.7 Kb/s) (SHA1 checksum: 5dcff8291c5f9e9fd3c97e7cf6279916f580d6d0)
+12292.385 (9) Beginning backup of other directories found in the content directory (index: 0)
+12292.385 (9) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+12292.386 (9) Looking for candidates to back up in: /home/u139xe5/www/wp-content
+12292.387 (9) finding files: languages: adding to list (1)
+12292.387 (9) finding files: upgrade: skipping: excluded by options
+12292.388 (9) finding files: index.php: adding to list (2)
+12292.389 (9) finding files: aiowps_backups: skipping: excluded by options (glob)
+12292.389 (9) finding files: updraft: skipping: this is the updraft directory
+12292.390 (9) finding files: cache: skipping: excluded by options
+12292.390 (9) finding files: themes: skipping: this is the themes directory
+12292.391 (9) finding files: uploads: skipping: this is the uploads directory
+12292.392 (9) finding files: .DS_Store: adding to list (3)
+12292.392 (9) finding files: plugins: skipping: this is the plugins directory
+12292.393 (9) finding files: upsupsystic: adding to list (4)
+12292.447 (9) Total entities for the zip file: 5 directories, 28 files (0 skipped as non-modified), 1.5 Mb
+12292.599 (9) Created others zip (0) - 437.1 Kb in 0.2 s (2129.9 Kb/s) (SHA1 checksum: 3985a6ff7fc923b1317302d03c751d7d6bb5ac62)
+12292.604 (9) Saving backup status to database (elements: 8)
+12292.606 (9) Resuming creation of database dump (WordPress DB)
+12292.608 (9) Testing: /usr/bin/mysqldump
+12292.621 (9) Working binary mysqldump found: /usr/bin/mysqldump
+12292.628 (9) Table wp_acoptions: Total expected rows (approximate): 1361
+12292.668 (9) Table wp_acoptions: Total rows added: 320 in 0.04 seconds
+12292.669 (9) Table wp_acoptions: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acoptions.table.gz - 156.3 Kb)
+12292.675 (9) Table wp_acusers: Total expected rows (approximate): 3
+12292.677 (9) Table wp_acusers: Total rows added: 3 in 0.00 seconds
+12292.677 (9) Table wp_acusers: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acusers.table.gz - 0.7 Kb)
+12292.681 (9) Table wp_acusermeta: Total expected rows (approximate): 62
+12292.684 (9) Table wp_acusermeta: Total rows added: 62 in 0.00 seconds
+12292.684 (9) Table wp_acusermeta: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acusermeta.table.gz - 1.7 Kb)
+12292.688 (9) Table wp_accommentmeta: Total expected rows (approximate): 0
+12292.689 (9) Table wp_accommentmeta: Total rows added: 0 in 0.00 seconds
+12292.690 (9) Table wp_accommentmeta: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accommentmeta.table.gz - 0.4 Kb)
+12292.694 (9) Table wp_accomments: Total expected rows (approximate): 1
+12292.695 (9) Table wp_accomments: Total rows added: 1 in 0.00 seconds
+12292.696 (9) Table wp_accomments: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accomments.table.gz - 0.7 Kb)
+12292.700 (9) Table wp_aclinks: Total expected rows (approximate): 0
+12292.701 (9) Table wp_aclinks: Total rows added: 0 in 0.00 seconds
+12292.702 (9) Table wp_aclinks: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_aclinks.table.gz - 0.4 Kb)
+12292.707 (9) Table wp_acpostmeta: Total expected rows (approximate): 1177
+12292.736 (9) Table wp_acpostmeta: Total rows added: 1012 in 0.03 seconds
+12292.737 (9) Table wp_acpostmeta: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acpostmeta.table.gz - 16.1 Kb)
+12292.742 (9) Table wp_acposts: Total expected rows (approximate): 1235
+12292.827 (9) Table wp_acposts: Total rows added: 384 in 0.08 seconds
+12292.829 (9) Table wp_acposts: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acposts.table.gz - 102.8 Kb)
+12292.832 (9) Table wp_acterm_relationships: Total expected rows (approximate): 23
+12292.834 (9) Table wp_acterm_relationships: Total rows added: 23 in 0.00 seconds
+12292.835 (9) Table wp_acterm_relationships: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acterm_relationships.table.gz - 0.4 Kb)
+12292.838 (9) Table wp_acterm_taxonomy: Total expected rows (approximate): 6
+12292.840 (9) Table wp_acterm_taxonomy: Total rows added: 6 in 0.00 seconds
+12292.841 (9) Table wp_acterm_taxonomy: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acterm_taxonomy.table.gz - 0.5 Kb)
+12292.844 (9) Table wp_actermmeta: Total expected rows (approximate): 0
+12292.846 (9) Table wp_actermmeta: Total rows added: 0 in 0.00 seconds
+12292.846 (9) Table wp_actermmeta: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_actermmeta.table.gz - 0.4 Kb)
+12292.850 (9) Table wp_acterms: Total expected rows (approximate): 6
+12292.851 (9) Table wp_acterms: Total rows added: 6 in 0.00 seconds
+12292.852 (9) Table wp_acterms: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acterms.table.gz - 0.5 Kb)
+12292.855 (9) Table wp_acaiowps_events: Total expected rows (approximate): 0
+12292.857 (9) Table wp_acaiowps_events: Total rows added: 0 in 0.00 seconds
+12292.857 (9) Table wp_acaiowps_events: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_events.table.gz - 0.4 Kb)
+12292.861 (9) Table wp_acaiowps_failed_logins: Total expected rows (approximate): 737
+12292.877 (9) Table wp_acaiowps_failed_logins: Total rows added: 758 in 0.02 seconds
+12292.878 (9) Table wp_acaiowps_failed_logins: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_failed_logins.table.gz - 7.1 Kb)
+12292.881 (9) Table wp_acaiowps_global_meta: Total expected rows (approximate): 0
+12292.882 (9) Table wp_acaiowps_global_meta: Total rows added: 0 in 0.00 seconds
+12292.883 (9) Table wp_acaiowps_global_meta: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_global_meta.table.gz - 0.4 Kb)
+12292.887 (9) Table wp_acaiowps_login_activity: Total expected rows (approximate): 11
+12292.889 (9) Table wp_acaiowps_login_activity: Total rows added: 11 in 0.00 seconds
+12292.889 (9) Table wp_acaiowps_login_activity: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_login_activity.table.gz - 0.6 Kb)
+12292.893 (9) Table wp_acaiowps_login_lockdown: Total expected rows (approximate): 160
+12292.899 (9) Table wp_acaiowps_login_lockdown: Total rows added: 160 in 0.01 seconds
+12292.900 (9) Table wp_acaiowps_login_lockdown: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_login_lockdown.table.gz - 2.8 Kb)
+12292.903 (9) Table wp_acaiowps_permanent_block: Total expected rows (approximate): 0
+12292.905 (9) Table wp_acaiowps_permanent_block: Total rows added: 0 in 0.00 seconds
+12292.905 (9) Table wp_acaiowps_permanent_block: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_permanent_block.table.gz - 0.4 Kb)
+12292.909 (9) Table wp_accf7dbplugin_st: Total expected rows (approximate): 24
+12292.910 (9) Table wp_accf7dbplugin_st: Total rows added: 24 in 0.00 seconds
+12292.911 (9) Table wp_accf7dbplugin_st: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accf7dbplugin_st.table.gz - 0.5 Kb)
+12292.914 (9) Table wp_accf7dbplugin_submits: Total expected rows (approximate): 180
+12292.920 (9) Table wp_accf7dbplugin_submits: Total rows added: 180 in 0.01 seconds
+12292.921 (9) Table wp_accf7dbplugin_submits: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accf7dbplugin_submits.table.gz - 3.1 Kb)
+12292.925 (9) Table wp_achuge_itslider_images: Total expected rows (approximate): 3
+12292.927 (9) Table wp_achuge_itslider_images: Total rows added: 3 in 0.00 seconds
+12292.927 (9) Table wp_achuge_itslider_images: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_achuge_itslider_images.table.gz - 0.7 Kb)
+12292.931 (9) Table wp_achuge_itslider_params: Total expected rows (approximate): 37
+12292.933 (9) Table wp_achuge_itslider_params: Total rows added: 37 in 0.00 seconds
+12292.934 (9) Table wp_achuge_itslider_params: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_achuge_itslider_params.table.gz - 1 Kb)
+12292.937 (9) Table wp_achuge_itslider_sliders: Total expected rows (approximate): 1
+12292.941 (9) Table wp_achuge_itslider_sliders: Total rows added: 1 in 0.00 seconds
+12292.942 (9) Table wp_achuge_itslider_sliders: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_achuge_itslider_sliders.table.gz - 0.5 Kb)
+12292.945 (9) Table wp_acnextend_smartslider_layouts: Total expected rows (approximate): 0
+12292.947 (9) Table wp_acnextend_smartslider_layouts: Total rows added: 0 in 0.00 seconds
+12292.947 (9) Table wp_acnextend_smartslider_layouts: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_layouts.table.gz - 0.3 Kb)
+12292.951 (9) Table wp_acnextend_smartslider_sliders: Total expected rows (approximate): 1
+12292.953 (9) Table wp_acnextend_smartslider_sliders: Total rows added: 1 in 0.00 seconds
+12292.954 (9) Table wp_acnextend_smartslider_sliders: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_sliders.table.gz - 2.4 Kb)
+12292.957 (9) Table wp_acnextend_smartslider_slides: Total expected rows (approximate): 2
+12292.959 (9) Table wp_acnextend_smartslider_slides: Total rows added: 2 in 0.00 seconds
+12292.960 (9) Table wp_acnextend_smartslider_slides: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_slides.table.gz - 0.6 Kb)
+12292.964 (9) Table wp_acnextend_smartslider_storage: Total expected rows (approximate): 8
+12292.966 (9) Table wp_acnextend_smartslider_storage: Total rows added: 8 in 0.00 seconds
+12292.967 (9) Table wp_acnextend_smartslider_storage: finishing file (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_storage.table.gz - 4.7 Kb)
+12292.969 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acoptions.table.gz (1/27): adding to final database dump
+12293.001 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acusers.table.gz (2/27): adding to final database dump
+12293.002 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acusermeta.table.gz (3/27): adding to final database dump
+12293.003 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accommentmeta.table.gz (4/27): adding to final database dump
+12293.003 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accomments.table.gz (5/27): adding to final database dump
+12293.004 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_aclinks.table.gz (6/27): adding to final database dump
+12293.005 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acpostmeta.table.gz (7/27): adding to final database dump
+12293.014 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acposts.table.gz (8/27): adding to final database dump
+12293.044 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acterm_relationships.table.gz (9/27): adding to final database dump
+12293.045 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acterm_taxonomy.table.gz (10/27): adding to final database dump
+12293.046 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_actermmeta.table.gz (11/27): adding to final database dump
+12293.047 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acterms.table.gz (12/27): adding to final database dump
+12293.047 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_events.table.gz (13/27): adding to final database dump
+12293.048 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_failed_logins.table.gz (14/27): adding to final database dump
+12293.053 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_global_meta.table.gz (15/27): adding to final database dump
+12293.054 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_login_activity.table.gz (16/27): adding to final database dump
+12293.055 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_login_lockdown.table.gz (17/27): adding to final database dump
+12293.057 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acaiowps_permanent_block.table.gz (18/27): adding to final database dump
+12293.057 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accf7dbplugin_st.table.gz (19/27): adding to final database dump
+12293.058 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_accf7dbplugin_submits.table.gz (20/27): adding to final database dump
+12293.060 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_achuge_itslider_images.table.gz (21/27): adding to final database dump
+12293.061 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_achuge_itslider_params.table.gz (22/27): adding to final database dump
+12293.062 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_achuge_itslider_sliders.table.gz (23/27): adding to final database dump
+12293.063 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_layouts.table.gz (24/27): adding to final database dump
+12293.064 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_sliders.table.gz (25/27): adding to final database dump
+12293.065 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_slides.table.gz (26/27): adding to final database dump
+12293.066 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db-table-wp_acnextend_smartslider_storage.table.gz (27/27): adding to final database dump
+12293.067 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db.gz: finished writing out complete database file (288 Kb)
+12293.072 (9) Total database tables backed up: 27 (backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db.gz, size: 307192, checksum (SHA1): 0f74f3584f788a98b26867ce53a1b5452bf5633e)
+12293.077 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+12293.078 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+12293.078 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+12293.079 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-others.zip: others: This file has not yet been successfully uploaded: will queue
+12293.079 (9) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db.gz: db: This file has not yet been successfully uploaded: will queue
+12293.080 (9) Saving backup history. Total backup size: 47.2 Mb
+12293.082 (9) Requesting upload of the files that have not yet been successfully uploaded (5)
+12293.085 (9) Cloud backup selection (1/1): googledrive (last)
+12293.087 (9) Beginning dispatch of backup to remote (googledrive)
+12293.088 (9) Google Drive: this account is not authorised
+12293.088 (9) An error condition has occurred for the first time during this job
+12293.090 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+12293.091 (9) Number of backup sets in history: 3; groups (db): 1
+12293.092 (9) Examining (for databases) backup set with group_id=0, nonce=dd0e4f81ff3b, datestamp=1460990942 (Apr 18 2016 14:49:02)
+12293.092 (9) This backup set is the backup set just made, so will not be deleted.
+12293.093 (9) Examining (for databases) backup set with group_id=0, nonce=d361628e5dd8, datestamp=1460386936 (Apr 11 2016 15:02:16)
+12293.094 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+12293.094 (9) Examining (for databases) backup set with group_id=0, nonce=1e425e27d724, datestamp=1459782966 (Apr 04 2016 15:16:06)
+12293.095 (9) 1459782966: db: this set includes a database (backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-db.gz); db count is now 2
+12293.095 (9) 1459782966: db: over retain limit (2); will delete this database
+12293.096 (9) Delete file: backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-db.gz, service=googledrive
+12293.096 (9) Deleting local copy (backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-db.gz)
+12293.097 (9) Google Drive: this account is not authorised
+12293.099 (9) This backup set remains non-empty (f=1/d=0); will retain in history
+12293.100 (9) Number of backup sets in history: 3; groups (files): 1
+12293.100 (9) Examining (for files) backup set with nonce=dd0e4f81ff3b, datestamp=1460990942 (Apr 18 2016 14:49:02)
+12293.101 (9) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12293.101 (9) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12293.101 (9) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12293.101 (9) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12293.102 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+12293.102 (9) Examining (for files) backup set with nonce=d361628e5dd8, datestamp=1460386936 (Apr 11 2016 15:02:16)
+12293.103 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+12293.103 (9) Examining (for files) backup set with nonce=1e425e27d724, datestamp=1459782966 (Apr 04 2016 15:16:06)
+12293.104 (9) plugins: over retain limit (2); will delete this file entity
+12293.104 (9) themes: over retain limit (2); will delete this file entity
+12293.105 (9) uploads: over retain limit (2); will delete this file entity
+12293.105 (9) others: over retain limit (2); will delete this file entity
+12293.106 (9) Delete file: backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-plugins.zip, service=googledrive
+12293.107 (9) Deleting local copy (backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-plugins.zip)
+12293.107 (9) Delete file: backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-themes.zip, service=googledrive
+12293.108 (9) Deleting local copy (backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-themes.zip)
+12293.110 (9) Delete file: backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-uploads.zip, service=googledrive
+12293.111 (9) Deleting local copy (backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-uploads.zip)
+12293.112 (9) Delete file: backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-others.zip, service=googledrive
+12293.113 (9) Deleting local copy (backup_2016-04-04-1516_Andersson_Consulting_1e425e27d724-others.zip)
+12293.113 (9) Google Drive: this account is not authorised
+12293.115 (9) This backup set is now empty; will remove from history
+12293.116 (9) Deleting log file (log.1e425e27d724.txt)
+12293.119 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+12293.122 (9) Resume backup (dd0e4f81ff3b, 9): finish run
+12293.123 (9) There were errors in the uploads, so the 'resume' event is remaining scheduled
+12293.125 (9) No email will/can be sent - the user has not configured an email address.
+12293.126 (9) Backup'en er ikke færdig; en genoptagelse er planlagt
+12603.587 (10) Opened log file at time: Mon, 18 Apr 2016 18:19:06 +0000 on http://anderssonconsulting.dk
+12603.588 (10) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28.1M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+12603.589 (10) Free space on disk containing Updraft's temporary directory: 161534.5 Mb
+12603.591 (10) Backup run: resumption=10, nonce=dd0e4f81ff3b, begun at=1460990942 (12604s ago), job type=backup, previous check-in=9.4s
+12603.592 (10) Scheduling a resumption (11) after 300 seconds (1461003846) in case this run gets aborted
+12603.601 (10) Creation of backups of directories: already finished
+12603.602 (10) Saving backup status to database (elements: 8)
+12603.604 (10) Database dump (WordPress DB): Creation was completed already
+12603.607 (10) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+12603.608 (10) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+12603.608 (10) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+12603.609 (10) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-others.zip: others: This file has not yet been successfully uploaded: will queue
+12603.610 (10) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db.gz: db: This file has not yet been successfully uploaded: will queue
+12603.610 (10) Saving backup history. Total backup size: 47.2 Mb
+12603.612 (10) Requesting upload of the files that have not yet been successfully uploaded (5)
+12603.614 (10) Cloud backup selection (1/1): googledrive (last)
+12603.616 (10) Beginning dispatch of backup to remote (googledrive)
+12603.617 (10) Google Drive: this account is not authorised
+12603.618 (10) An error condition has occurred for the first time during this job
+12603.619 (10) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+12603.620 (10) Number of backup sets in history: 2; groups (db): 1
+12603.621 (10) Examining (for databases) backup set with group_id=0, nonce=dd0e4f81ff3b, datestamp=1460990942 (Apr 18 2016 14:49:02)
+12603.622 (10) This backup set is the backup set just made, so will not be deleted.
+12603.622 (10) Examining (for databases) backup set with group_id=0, nonce=d361628e5dd8, datestamp=1460386936 (Apr 11 2016 15:02:16)
+12603.623 (10) This backup set remains non-empty (f=1/d=1); will retain in history
+12603.623 (10) Number of backup sets in history: 2; groups (files): 1
+12603.624 (10) Examining (for files) backup set with nonce=dd0e4f81ff3b, datestamp=1460990942 (Apr 18 2016 14:49:02)
+12603.624 (10) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12603.625 (10) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12603.625 (10) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12603.625 (10) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+12603.625 (10) This backup set remains non-empty (f=1/d=1); will retain in history
+12603.626 (10) Examining (for files) backup set with nonce=d361628e5dd8, datestamp=1460386936 (Apr 11 2016 15:02:16)
+12603.627 (10) This backup set remains non-empty (f=1/d=1); will retain in history
+12603.627 (10) Retain: saving new backup history (sets now: 2) and finishing retain operation
+12603.629 (10) Resume backup (dd0e4f81ff3b, 10): finish run
+12603.630 (10) There were errors in the uploads, so the 'resume' event is remaining scheduled
+12603.632 (10) No email will/can be sent - the user has not configured an email address.
+12603.632 (10) Backup'en er ikke færdig; en genoptagelse er planlagt
+15733.598 (11) Opened log file at time: Mon, 18 Apr 2016 19:11:16 +0000 on http://anderssonconsulting.dk
+15733.599 (11) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 5.5.9-1ubuntu4.14 (Linux nixweb07 3.13.0-79-generic #123-Ubuntu SMP Fri Feb 19 14:27:58 UTC 2016 x86_64) MySQL: 5.5.47 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 28.1M | 28.8M) multisite: N mcrypt: Y LANG: C ZipArchive::addFile: Y
+15733.599 (11) Free space on disk containing Updraft's temporary directory: 161512.1 Mb
+15733.601 (11) Backup run: resumption=11, nonce=dd0e4f81ff3b, begun at=1460990942 (15734s ago), job type=backup
+15733.602 (11) Long time past since expected resumption time: approx expected=1461003846.4, now=1461006676.4, diff=2830
+15733.602 (11) [Warning] Dit website besøges kun sjældent og UpdraftPlus modtager ikke de forventede ressourcer. Læs venligst denne side: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+15733.604 (11) The current run is resumption number 11, and there was nothing useful done on the last run (last useful run: 9) - will not schedule a further attempt until we see something useful happening this time
+15733.613 (11) Creation of backups of directories: already finished
+15733.615 (11) Saving backup status to database (elements: 8)
+15733.617 (11) Database dump (WordPress DB): Creation was completed already
+15733.620 (11) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+15733.620 (11) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+15733.621 (11) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+15733.622 (11) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-others.zip: others: This file has not yet been successfully uploaded: will queue
+15733.622 (11) backup_2016-04-18-1449_Andersson_Consulting_dd0e4f81ff3b-db.gz: db: This file has not yet been successfully uploaded: will queue
+15733.623 (11) Saving backup history. Total backup size: 47.2 Mb
+15733.625 (11) Requesting upload of the files that have not yet been successfully uploaded (5)
+15733.626 (11) Cloud backup selection (1/1): googledrive (last)
+15733.629 (11) Beginning dispatch of backup to remote (googledrive)
+15733.630 (11) Google Drive: this account is not authorised
+15733.630 (11) An error condition has occurred for the first time during this job
+15733.632 (11) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+15733.633 (11) Number of backup sets in history: 2; groups (db): 1
+15733.634 (11) Examining (for databases) backup set with group_id=0, nonce=dd0e4f81ff3b, datestamp=1460990942 (Apr 18 2016 14:49:02)
+15733.634 (11) This backup set is the backup set just made, so will not be deleted.
+15733.635 (11) Examining (for databases) backup set with group_id=0, nonce=d361628e5dd8, datestamp=1460386936 (Apr 11 2016 15:02:16)
+15733.635 (11) This backup set remains non-empty (f=1/d=1); will retain in history
+15733.636 (11) Number of backup sets in history: 2; groups (files): 1
+15733.637 (11) Examining (for files) backup set with nonce=dd0e4f81ff3b, datestamp=1460990942 (Apr 18 2016 14:49:02)
+15733.637 (11) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+15733.638 (11) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+15733.638 (11) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+15733.638 (11) This backup set is the backup set just made, so will not be deleted, despite being over the retain limit.
+15733.638 (11) This backup set remains non-empty (f=1/d=1); will retain in history
+15733.639 (11) Examining (for files) backup set with nonce=d361628e5dd8, datestamp=1460386936 (Apr 11 2016 15:02:16)
+15733.639 (11) This backup set remains non-empty (f=1/d=1); will retain in history
+15733.640 (11) Retain: saving new backup history (sets now: 2) and finishing retain operation
+15733.643 (11) Resume backup (dd0e4f81ff3b, 11): finish run
+15733.644 (11) There were errors in the uploads, so the 'resume' event is remaining scheduled
+15733.646 (11) No email will/can be sent - the user has not configured an email address.
+15733.646 (11) Sikkerhedskopieringen forsøgte at blive færdig, men uden held

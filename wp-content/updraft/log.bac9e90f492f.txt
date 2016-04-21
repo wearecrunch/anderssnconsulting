@@ -1,0 +1,27 @@
+0211.188 (1) Opened log file at time: Thu, 21 Apr 2016 15:12:51 +0000 on http://localhost/anderssnconsulting2
+0211.191 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 7.0.0 (Darwin Adams-MacBook-Pro.local 15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64 x86_64) MySQL: 5.5.42 Server: Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/7.0.0 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 19.1M | 14M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0211.192 (1) Free space on disk containing Updraft's temporary directory: 175941.1 Mb
+0211.223 (1) Backup run: resumption=1, nonce=bac9e90f492f, begun at=1461251360 (211s ago), job type=backup, previous check-in=27.8s
+0211.226 (1) Scheduling a resumption (2) after 300 seconds (1461251871) in case this run gets aborted
+0211.293 (1) Checking if we have a zip executable available
+0211.295 (1) Zip engine: found/will use a binary zip: /usr/bin/zip
+0211.296 (1) Creation of backups of directories: already finished
+0211.297 (1) Saving backup status to database (elements: 8)
+0211.300 (1) Database dump (WordPress DB): Creation was completed already
+0211.305 (1) backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-plugins.zip: plugins: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/Applications/MAMP/htdocs/anderssnconsulting2/wp-content/updraft/backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-plugins.zip)
+0211.308 (1) Recording as successfully uploaded: backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-plugins.zip (d7d4bd3859cbe0f07f7b763c67731a3f)
+0211.313 (1) backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-themes.zip: themes: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/Applications/MAMP/htdocs/anderssnconsulting2/wp-content/updraft/backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-themes.zip)
+0211.316 (1) Recording as successfully uploaded: backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-themes.zip (eb25a4df2da7db387740e69a917e2c87)
+0211.320 (1) backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-uploads.zip: uploads: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/Applications/MAMP/htdocs/anderssnconsulting2/wp-content/updraft/backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-uploads.zip)
+0211.323 (1) Recording as successfully uploaded: backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-uploads.zip (5fd5505096cbf2fc701fe8cb7552ea67)
+0211.327 (1) backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-others.zip: others: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/Applications/MAMP/htdocs/anderssnconsulting2/wp-content/updraft/backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-others.zip)
+0211.329 (1) Recording as successfully uploaded: backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-others.zip (3d6bfb7685e0beedde437d073a486eaf)
+0211.354 (1) backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/Applications/MAMP/htdocs/anderssnconsulting2/wp-content/updraft/backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-db.gz)
+0211.357 (1) Recording as successfully uploaded: backup_2016-04-21-1509_Andersson_Consulting_bac9e90f492f-db.gz (3595ccac32d34e231884ce4ab44eaf74)
+0211.362 (1) Saving backup history. Total backup size: Unknown
+0211.366 (1) Resume backup (bac9e90f492f, 1): finish run
+0211.368 (1) There were no more files that needed uploading
+0211.369 (1) There were no errors in the uploads, so the 'resume' event (2) is being unscheduled
+0211.373 (1) The backup apparently succeeded and is now complete
+0211.374 (1) No email will be sent - this backup set was empty.
+0211.375 (1) Sikkerhedskopieringen lykkedes og er nu færdig

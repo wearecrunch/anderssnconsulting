@@ -1,0 +1,5 @@
+0211.380 (1) Opened log file at time: Thu, 21 Apr 2016 15:12:51 +0000 on http://localhost/anderssnconsulting2
+0211.381 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.11.28 WP: 4.4.2 PHP: 7.0.0 (Darwin Adams-MacBook-Pro.local 15.0.0 Darwin Kernel Version 15.0.0: Sat Sep 19 15:53:46 PDT 2015; root:xnu-3247.10.11~1/RELEASE_X86_64 x86_64) MySQL: 5.5.42 Server: Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/7.0.0 mod_ssl/2.2.29 OpenSSL/0.9.8zg DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 19.7M | 16M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+0211.382 (1) Free space on disk containing Updraft's temporary directory: 175941.1 Mb
+0211.385 (1) Backup run: resumption=1, nonce=4a9a9e7487a4, begun at=1461251360 (211s ago), job type=backup, previous check-in=27.8s
+0211.385 (1) Terminate: This backup job is already finished (1).

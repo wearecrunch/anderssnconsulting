@@ -1,0 +1,83 @@
+[2016-02-29 14:04:47] Backup settings: Full backup; Wordpress Core; Plugins folder; Themes folder; Uploads folder; Any folder inside wp-content; Database backup; Exclude: upgrade,cache; Email notification: adam@wearecrunch.dk.
+[2016-02-29 14:04:47] Clear temporary directory
+[2016-02-29 14:04:47] Send request to create backup
+[2016-02-29 14:04:47] Scanning files.
+[2016-02-29 14:04:48] 3854 files scanned.
+[2016-02-29 14:04:48] Total stacks: 33
+[2016-02-29 14:04:48] Create backup filesystem in folder: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1
+[2016-02-29 14:04:48] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450000e413.zip
+[2016-02-29 14:04:49] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45000b2309.zip
+[2016-02-29 14:04:50] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500179e96.zip
+[2016-02-29 14:04:50] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500240b68.zip
+[2016-02-29 14:04:51] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45002bc4f5.zip
+[2016-02-29 14:04:54] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45003d5b2b.zip
+[2016-02-29 14:04:55] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500688c53.zip
+[2016-02-29 14:04:55] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450072932d.zip
+[2016-02-29 14:04:56] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45007d777b.zip
+[2016-02-29 14:04:56] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500872336.zip
+[2016-02-29 14:04:57] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45008f1de0.zip
+[2016-02-29 14:04:57] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450095fd44.zip
+[2016-02-29 14:04:58] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500a01f89.zip
+[2016-02-29 14:04:59] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500abff5f.zip
+[2016-02-29 14:04:59] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500b3d734.zip
+[2016-02-29 14:04:59] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500b86bd7.zip
+[2016-02-29 14:05:00] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500bbc711.zip
+[2016-02-29 14:05:00] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500c0ec33.zip
+[2016-02-29 14:05:00] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500c515e0.zip
+[2016-02-29 14:05:01] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500c95200.zip
+[2016-02-29 14:05:01] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500d03f24.zip
+[2016-02-29 14:05:01] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500d74b52.zip
+[2016-02-29 14:05:01] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500db77d6.zip
+[2016-02-29 14:05:02] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500dde84f.zip
+[2016-02-29 14:05:02] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500e128bf.zip
+[2016-02-29 14:05:02] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500e65997.zip
+[2016-02-29 14:05:03] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500ec3b24.zip
+[2016-02-29 14:05:03] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500f46914.zip
+[2016-02-29 14:05:03] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500f87ce0.zip
+[2016-02-29 14:05:04] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500fc511c.zip
+[2016-02-29 14:05:04] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450104dc96.zip
+[2016-02-29 14:05:05] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45010d2ecd.zip
+[2016-02-29 14:05:05] Successful created stack: /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450114090e.zip
+[2016-02-29 14:05:05] Filesystem backup complete
+[2016-02-29 14:05:05] Create database backup : /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1.sql
+[2016-02-29 14:05:05] Database backup complete
+[2016-02-29 14:05:05] Upload to the "Googledrive" required
+[2016-02-29 14:05:08] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1.sql
+[2016-02-29 14:05:09] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450000e413.zip
+[2016-02-29 14:05:10] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45000b2309.zip
+[2016-02-29 14:05:11] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500179e96.zip
+[2016-02-29 14:05:13] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500240b68.zip
+[2016-02-29 14:05:14] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45002bc4f5.zip
+[2016-02-29 14:05:15] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45003d5b2b.zip
+[2016-02-29 14:05:16] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500688c53.zip
+[2016-02-29 14:05:17] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450072932d.zip
+[2016-02-29 14:05:19] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45007d777b.zip
+[2016-02-29 14:05:20] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500872336.zip
+[2016-02-29 14:05:21] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45008f1de0.zip
+[2016-02-29 14:05:22] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450095fd44.zip
+[2016-02-29 14:05:24] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500a01f89.zip
+[2016-02-29 14:05:25] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500abff5f.zip
+[2016-02-29 14:05:26] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500b3d734.zip
+[2016-02-29 14:05:28] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500b86bd7.zip
+[2016-02-29 14:05:29] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500bbc711.zip
+[2016-02-29 14:05:30] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500c0ec33.zip
+[2016-02-29 14:05:32] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500c515e0.zip
+[2016-02-29 14:05:33] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500c95200.zip
+[2016-02-29 14:05:35] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500d03f24.zip
+[2016-02-29 14:05:36] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500d74b52.zip
+[2016-02-29 14:05:37] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500db77d6.zip
+[2016-02-29 14:05:39] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500dde84f.zip
+[2016-02-29 14:05:40] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500e128bf.zip
+[2016-02-29 14:05:41] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500e65997.zip
+[2016-02-29 14:05:43] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500ec3b24.zip
+[2016-02-29 14:05:45] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500f46914.zip
+[2016-02-29 14:05:47] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500f87ce0.zip
+[2016-02-29 14:05:48] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d4500fc511c.zip
+[2016-02-29 14:05:50] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450104dc96.zip
+[2016-02-29 14:05:52] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d45010d2ecd.zip
+[2016-02-29 14:05:54] Successfully uploaded to the "Googledrive": /home/u139xe5/www/wp-content/upsupsystic/backup_2016_02_29-14_04_47_id1/BUP56d450114090e.zip
+[2016-02-29 14:05:54] Backup successful complete!
+[2016-02-29 14:05:54] Email notification required.
+[2016-02-29 14:05:54] Sending to adam@wearecrunch.dk
+[2016-02-29 14:05:54] Please, don't delete the line that is lower, it is used for technical purposes!
+a:8:{s:4:"full";s:1:"1";s:7:"wp_core";s:1:"1";s:7:"plugins";s:1:"1";s:6:"themes";s:1:"1";s:7:"uploads";s:1:"1";s:15:"any_directories";s:1:"1";s:7:"exclude";s:13:"upgrade,cache";s:16:"backupFolderSize";i:48149466;}
